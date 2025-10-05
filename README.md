@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Manjur-E-Alahi  
+🌱 Front-End Developer | HTML, CSS, JavaScript Learner  
+🎯 Building responsive websites & portfolio projects  
 
-<!--
-**DevManjurAlahi/DevManjurAlahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+HTML | CSS | Responsive Design | Flexbox | Grid | Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🎬 [Netflix Homepage Clone](#)  
+- 🌐 [Google Homepage Clone](#)  
+- 💼 [Personal Portfolio Website](#)  
+
+## 📫 Connect with me
+📧 **Email:** manjur.ealahi99@gmail.com
+🌐 **Portfolio:** (coming soon on Netlify)
+
