@@ -7,7 +7,7 @@
 HTML | CSS | Responsive Design | Flexbox | Grid | Git & GitHub  
 
 ## 📂 Featured Projects
-- 🎬 [Netflix Homepage Clone](#)  
+- 🎬 [StreamFlix Homepage Inspired by Netflix](#)  
 - 🌐 [Google Homepage Clone](#)  
 - 💼 [Personal Portfolio Website](#)  
 
